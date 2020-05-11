@@ -1,0 +1,20 @@
+{
+  "uses": 0,
+  "default_user": {
+    "icon_warned": false,
+    "lang": "ru",
+    "opt_in": true,
+    "uses": 0
+  },
+  "times_shared": 0,
+  "admins": [],
+  "token": "1292603883:AAFCiKSUlAHnVCtPrim_uui2xahlmPjEBs0",
+  "langs_auto_set": 0,
+  "override_opt_out": false,
+  "send_opt_out_message": true,
+  "save_interval": 300,
+  "spam_interval": 900,
+  "spam_max": 50,
+  "broadcast_batch_size": 25,
+  "broadcast_batch_interval": 15
+}
